@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # NVIDIA GPU metric module using the Python bindings for NVML
 #
 # (C)opyright 2011, 2012 Bernard Li <bernard@vanhpc.org>
